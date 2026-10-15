@@ -5,7 +5,7 @@
 Sou Leandro, de Americana, SP. Sou formado em Análise e Desenvolvimento de Sistemas pela Fatec Americana e técnico em Desenvolvimento de Sistemas pelo Senai. Atuo com back-end em TypeScript (NestJS) e Java (Spring Boot), construindo APIs REST, microsserviços e integrações entre sistemas, com interfaces em React e Next.js. Sou cofundador do **Arenix Cloud**, um SaaS multi-tenant para gestão e locação de quadras de society, e uso IA generativa no dia a dia com revisão crítica do que é gerado.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/SEU-USUARIO/](https://www.linkedin.com/in/leandro-ferreira-das-neves-089752228">
+    <a href="https://www.linkedin.com/in/leandro-ferreira-das-neves-089752228">
         <img
             alt="LinkedIn"
             title="Me siga no LinkedIn"
